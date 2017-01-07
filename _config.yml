@@ -1,0 +1,5 @@
+markdown: kramdown
+permalink: /:year/:month/:title/
+url: http://hmybmny.com
+author: hmybmny
+highlighter: rouge
